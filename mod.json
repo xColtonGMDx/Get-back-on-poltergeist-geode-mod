@@ -1,0 +1,15 @@
+{
+  "geode": "5.0.1",
+  "id": "xcoltongmdx.getbackonpoltergeist",
+  "name": "get back on poltergeist Button",
+  "version": "1.0.0",
+  "description": "Adds a button that says get back on poltergeist. simple. my second mod.",
+  "authors": ["xSaturnGMDx"],
+  "developer": "xSaturnGMDx",
+  "gd": {
+    "android": "2.2081"
+  },
+"resources": {
+  "icon": "icon.png"
+ }
+}
